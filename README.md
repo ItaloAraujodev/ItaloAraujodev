@@ -48,6 +48,6 @@
  
  ##
   
- ⭐️ From [@ItalodevFull](https://github.com/ItalodevFull)
+ ⭐️ From [@ItaloAraujodev](https://github.com/ItaloAraujodev)
  
 </div>
