@@ -6,10 +6,9 @@
 - :thinking: &nbsp; Explorando novas tecnologias
 - :mailbox: &nbsp; Contato: italoarauju2019@gmail.com
 
- ##
-
-  
-![ItaloAraujodev's github stats](https://github-readme-stats-one-virid-55.vercel.app/api?username=ItaloAraujodev&show_icons=true&hide_border=true&count_private=true&theme=jolly) ![Top Languages](https://github-readme-stats-one-virid-55.vercel.app/api/top-langs/?username=ItaloAraujodev&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
+| Minhas Estatísticas                                                                                                                                         | Principais Linguagens                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![ItaloAraujodev's github stats](https://github-readme-stats-one-virid-55.vercel.app/api?username=ItaloAraujodev&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats-one-virid-55.vercel.app/api/top-langs/?username=ItaloAraujodev&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
  ![GitHub Streak](https://streak-stats.demolab.com?user=ItaloAraujodev&theme=synthwave&locale=pt_BR)
  ##
   
