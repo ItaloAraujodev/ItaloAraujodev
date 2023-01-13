@@ -9,13 +9,8 @@
  ##
 
   
-  <div align="center">
-  <a href="https://github.com/ItaloAraujodev
-">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloAraujodev&show_icons=true&theme=jolly&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAraujodev&layout=compact&langs_count=10&theme=jolly&hide_border=true"/>
-</div>
-
+![ItaloAraujodev's github stats](https://github-readme-stats-one-virid-55.vercel.app/api?username=ItaloAraujodev&show_icons=true&hide_border=true&count_private=true&theme=jolly) ![Top Languages](https://github-readme-stats-one-virid-55.vercel.app/api/top-langs/?username=ItaloAraujodev&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=ItaloAraujodev&theme=synthwave&locale=pt_BR)
  ##
   
 ### :man_technologist: Linguagens e ferramentas
