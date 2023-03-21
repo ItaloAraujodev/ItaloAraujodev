@@ -1,9 +1,16 @@
-## Ei! Eu sou o Ítalo.
+</div>
+<div align="justify">
+<i><b>Eii</b> :wave:, eu sou o <b>Ítalo</b>, tenho 19 anos, sou de Alagoas e sou programador há 1 ano</i>
+</div>
+
 -----
+
 ## Sobre mim
-- :telescope: &nbsp; Atualmente estou estudando back-end
-- :mortar_board: &nbsp; Atualmente estou fazendo o curso da Trybe, RocketSeat e Análise e Desenvolvimento de Sistemas
-- :thinking: &nbsp; Explorando novas tecnologias
+
+- :telescope: &nbsp; Atualmente estou estudando ciências da Computação.
+- :mortar_board: &nbsp; Atualmente estou fazendo o curso da <a href="https://www.betrybe.com/" target="_black">Trybe</a>, <a href="https://www.rocketseat.com.br/" target="_black">Rocketseat</a> e <a href="https://www.uninter.com/" target="_black">Análise e Desenvolvimento de Sistemas</a>
+- :thinking: &nbsp; Explorando novas tecnologias.
+- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 - :mailbox: &nbsp; Contato: italoarauju2019@gmail.com
 
 -----
@@ -16,7 +23,7 @@
 
 -----
 
-:man_technologist: Linguagens e ferramentas
+### :man_technologist: Linguagens e ferramentas:
   
 <br />
 <div align="left">
