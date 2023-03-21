@@ -59,7 +59,17 @@
   <a href="https://www.linkedin.com/in/italoaraujodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 -----
+
+<div>  
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=ItaloAraujodev"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/ItaloAraujodev?style=social"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/ItaloAraujodev?style=social"/>
+</div>
   
- ⭐️ From [@ItaloAraujodev](https://github.com/ItaloAraujodev)
+-----
+ 
+- Última atualização: 21/03/2023
+  
+- ⭐️ From [@ItaloAraujodev](https://github.com/ItaloAraujodev)
  
 </div>
