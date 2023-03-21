@@ -1,6 +1,7 @@
+### Eii :wave:, sou o <b>Ítalo</b>,
 </div>
 <div align="justify">
-<i><b>Eii</b> :wave:, eu sou o <b>Ítalo</b>, tenho 19 anos, sou de Alagoas e sou programador há 1 ano</i>
+<i>tenho 24 anos, sou de Alagoas e sou programador há 1 ano</i>
 </div>
 
 -----
