@@ -1,20 +1,22 @@
 ## Ei! Eu sou o Ítalo.
-
+-----
 ## Sobre mim
 - :telescope: &nbsp; Atualmente estou estudando back-end
 - :mortar_board: &nbsp; Atualmente estou fazendo o curso da Trybe, RocketSeat e Análise e Desenvolvimento de Sistemas
 - :thinking: &nbsp; Explorando novas tecnologias
 - :mailbox: &nbsp; Contato: italoarauju2019@gmail.com
 
-##
+-----
 
-| Minhas Estatísticas                                                                                                                                         | Principais Linguagens                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![ItaloAraujodev's github stats](https://github-readme-stats-one-virid-55.vercel.app/api?username=ItaloAraujodev&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats-one-virid-55.vercel.app/api/top-langs/?username=ItaloAraujodev&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
- ![GitHub Streak](https://streak-stats.demolab.com?user=ItaloAraujodev&theme=synthwave&locale=pt_BR)
- ##
-  
-### :man_technologist: Linguagens e ferramentas
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItaloAraujodev&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItaloAraujodev&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItaloAraujodev&theme=github_dark"/>
+</div>
+
+-----
+
+:man_technologist: Linguagens e ferramentas
   
 <br />
 <div align="left">
@@ -41,14 +43,14 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </div>
   
-  ##
+-----
  
- ### :speech_balloon: Quer me conhecer ?
+### :speech_balloon: Quer me conhecer ?
 <div> 
   <a href="https://www.instagram.com/italooo_araujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/italoaraujodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ##
+-----
   
  ⭐️ From [@ItaloAraujodev](https://github.com/ItaloAraujodev)
  
