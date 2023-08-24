@@ -9,7 +9,8 @@
 ## Sobre mim
 
 - :telescope: &nbsp; Atualmente estou estudando ciências da Computação.
-- :mortar_board: &nbsp; Atualmente estou fazendo o curso da <a href="https://www.betrybe.com/" target="_black">Trybe</a>, <a href="https://www.rocketseat.com.br/" target="_black">Rocketseat</a> e <a href="https://www.uninter.com/" target="_black">Análise e Desenvolvimento de Sistemas</a>
+- :mortar_board: &nbsp; Formado em Desenvolvimento Full-Stack na <a href="https://www.betrybe.com/" target="_black">Trybe</a>
+- :mortar_board: &nbsp; Atualmente estou fazendo o curso da <a href="https://www.rocketseat.com.br/" target="_black">Rocketseat</a> e <a href="https://www.uninter.com/" target="_black">Análise e Desenvolvimento de Sistemas</a>
 - :thinking: &nbsp; Explorando novas tecnologias.
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
 - :mailbox: &nbsp; Contato: italoarauju2019@gmail.com
