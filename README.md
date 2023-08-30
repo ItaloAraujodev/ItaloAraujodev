@@ -62,6 +62,8 @@
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/PrismaORM-282C34?logo=prisma&logoColor=52B0E7" alt="PrismaORM logo" title="PrismaORM" height="25" />
   
   
 </div>
