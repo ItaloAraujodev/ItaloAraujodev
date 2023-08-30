@@ -37,21 +37,31 @@
 &nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=52B0E7" alt="React logo" title="React" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=52B0E7" alt="Next.js logo" title="Next.js" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-&nbsp;
 &nbsp;
 <img src="https://img.shields.io/badge/RTL-282C34?logo=RTL&logoColor=4169E1" alt="RTL logo" title="RTL" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Vitest-282C34?logo=vitest&logoColor=52B0E7" alt="Vitest logo" title="Vitest" height="25" />
+&nbsp;
 <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Fastify-282C34?logo=Fastify&logoColor=52B0E7" alt="Fastify logo" title="Fastify" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />
 &nbsp;
@@ -59,12 +69,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/TypeORM-282C34?logo=TypeORM&logoColor=52B0E7" alt="TypeORM logo" title="TypeORM" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/PrismaORM-282C34?logo=prisma&logoColor=52B0E7" alt="PrismaORM logo" title="PrismaORM" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/PrismaORM-282C34?logo=prisma&logoColor=52B0E7" alt="PrismaORM logo" title="PrismaORM" height="25" />
-  
   
 </div>
   
