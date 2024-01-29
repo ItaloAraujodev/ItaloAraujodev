@@ -1,7 +1,7 @@
 ### Eii :wave:, sou o <b>Ítalo</b>,
 </div>
 <div align="justify">
-<i>tenho 24 anos, sou de Alagoas e programador há 1 ano</i>
+<i>tenho 25 anos, sou de Alagoas e programador há 1 ano</i>
 </div>
 
 -----
