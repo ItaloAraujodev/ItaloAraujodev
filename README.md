@@ -93,7 +93,7 @@
   
 -----
  
-- Última atualização: 13/11/2023
+- Última atualização: 11/04/2025
   
 - ⭐️ From [@ItaloAraujodev](https://github.com/ItaloAraujodev)
  
